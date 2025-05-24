@@ -1,4 +1,3 @@
-# AI-HR-assistant
 # Resume Matcher
 
 A Streamlit-based web application that matches resumes to job descriptions using semantic similarity and category-based scoring.
